@@ -99,14 +99,17 @@
     <programme channel="CCTV1综合" start="20260811194010 +0800" stop="20260811200400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811200400 +0800" stop="20260811205800 +0800">
-        <title lang="zh">专题节目-1</title>
+    <programme channel="CCTV1综合" start="20260811200400 +0800" stop="20260811205100 +0800">
+        <title lang="zh">江泽民-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811205800 +0800" stop="20260811215220 +0800">
-        <title lang="zh">专题节目-1</title>
+    <programme channel="CCTV1综合" start="20260811205100 +0800" stop="20260811214330 +0800">
+        <title lang="zh">江泽民-2</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811215220 +0800" stop="20260811220000 +0800">
+    <programme channel="CCTV1综合" start="20260811214330 +0800" stop="20260811215140 +0800">
         <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260811215140 +0800" stop="20260811220000 +0800">
+        <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260811220000 +0800" stop="20260811223530 +0800">
         <title lang="zh">晚间新闻</title>
@@ -886,25 +889,25 @@
         <title lang="zh">本集提要-重器-第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811193000 +0800" stop="20260811202540 +0800">
-        <title lang="zh">重器3/33</title>
+        <title lang="zh">重器第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811202540 +0800" stop="20260811203040 +0800">
         <title lang="zh">本集提要-重器-第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811203040 +0800" stop="20260811212440 +0800">
-        <title lang="zh">重器4/33</title>
+        <title lang="zh">重器第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811212440 +0800" stop="20260811212940 +0800">
         <title lang="zh">本集提要-米良与麦青-第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811212940 +0800" stop="20260811221940 +0800">
-        <title lang="zh">米良与麦青21/26</title>
+        <title lang="zh">米良与麦青第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811221940 +0800" stop="20260811222140 +0800">
-        <title lang="zh">本集提要-米良与麦青-22/26</title>
+        <title lang="zh">本集提要-米良与麦青-第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811222140 +0800" stop="20260811231140 +0800">
-        <title lang="zh">米良与麦青22/26</title>
+        <title lang="zh">米良与麦青第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260811231140 +0800" stop="20260811235740 +0800">
         <title lang="zh">玫瑰的故事第21集</title>
