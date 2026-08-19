@@ -93,7 +93,10 @@
     <programme channel="CCTV1综合" start="20260819193925 +0800" stop="20260819200400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260819200400 +0800" stop="20260819220000 +0800">
+    <programme channel="CCTV1综合" start="20260819200400 +0800" stop="20260819214115 +0800">
+        <title lang="zh">专题节目-1</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819214115 +0800" stop="20260819220000 +0800">
         <title lang="zh">专题节目-1</title>
     </programme>
     <programme channel="CCTV1综合" start="20260819220000 +0800" stop="20260819223630 +0800">
@@ -294,22 +297,25 @@
     <programme channel="CCTV3综艺" start="20260819173335 +0800" stop="20260819173840 +0800">
         <title lang="zh">综艺喜乐汇-2026-1038 闪耀动起来</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260819173840 +0800" stop="20260819183800 +0800">
+    <programme channel="CCTV3综艺" start="20260819173840 +0800" stop="20260819183645 +0800">
         <title lang="zh">综艺喜乐汇-2026-601</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260819183800 +0800" stop="20260819200000 +0800">
+    <programme channel="CCTV3综艺" start="20260819183645 +0800" stop="20260819184200 +0800">
+        <title lang="zh">中国文艺报道-2024-4卷饼店老板</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260819184200 +0800" stop="20260819200400 +0800">
         <title lang="zh">开门大吉-2026-6</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260819200000 +0800" stop="20260819214515 +0800">
+    <programme channel="CCTV3综艺" start="20260819200400 +0800" stop="20260819214415 +0800">
         <title lang="zh">今夕颂——2026中央广播电视总台七夕晚会-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260819214515 +0800" stop="20260819224045 +0800">
+    <programme channel="CCTV3综艺" start="20260819214415 +0800" stop="20260819223945 +0800">
         <title lang="zh">综艺喜乐汇-2026-1062</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260819224045 +0800" stop="20260819231930 +0800">
+    <programme channel="CCTV3综艺" start="20260819223945 +0800" stop="20260819231830 +0800">
         <title lang="zh">动物园里有什么-7</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260819231930 +0800" stop="20260819235900 +0800">
+    <programme channel="CCTV3综艺" start="20260819231830 +0800" stop="20260819235900 +0800">
         <title lang="zh">综艺喜乐汇-2026-865 四喜 1/36</title>
     </programme>
     <channel id="CCTV4中文国际">
@@ -856,7 +862,7 @@
         <title lang="zh">本集提要-重器-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260819193000 +0800" stop="20260819202540 +0800">
-        <title lang="zh">重器19/33</title>
+        <title lang="zh">重器第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260819202540 +0800" stop="20260819203040 +0800">
         <title lang="zh">本集提要-重器-第20集</title>
