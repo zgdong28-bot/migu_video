@@ -537,11 +537,11 @@
     <programme channel="CCTV5体育" start="20260824213000 +0800" stop="20260824223500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260824223500 +0800" stop="20260824233500 +0800">
-        <title lang="zh">实况录像-2026年世界羽毛球锦标赛 1</title>
+    <programme channel="CCTV5体育" start="20260824223500 +0800" stop="20260824230000 +0800">
+        <title lang="zh">实况录像-2026年世界艺术体操锦标赛 25分钟版</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260824233500 +0800" stop="20260824235900 +0800">
-        <title lang="zh">实况录像-2026/2027赛季斯诺克中国公开赛 1</title>
+    <programme channel="CCTV5体育" start="20260824230000 +0800" stop="20260824235900 +0800">
+        <title lang="zh">2026年美国网球公开赛-资格赛第1轮（郑钦文-尤晓迪）</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
