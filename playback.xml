@@ -97,13 +97,13 @@
         <title lang="zh">前情提要-藏锋-第9集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260824200600 +0800" stop="20260824205700 +0800">
-        <title lang="zh">藏锋9/23</title>
+        <title lang="zh">藏锋第9集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260824205700 +0800" stop="20260824210130 +0800">
         <title lang="zh">前情提要-藏锋-第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260824210130 +0800" stop="20260824215010 +0800">
-        <title lang="zh">藏锋10/23</title>
+        <title lang="zh">藏锋第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260824215010 +0800" stop="20260824220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -1305,14 +1305,14 @@
     <programme channel="CCTV13新闻" start="20260824051200 +0800" stop="20260824060000 +0800">
         <title lang="zh">面对面</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260824060000 +0800" stop="20260824072000 +0800">
+    <programme channel="CCTV13新闻" start="20260824060000 +0800" stop="20260824090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260824072000 +0800" stop="20260824092000 +0800">
+    <programme channel="CCTV13新闻" start="20260824090000 +0800" stop="20260824091500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260824092000 +0800" stop="20260824100000 +0800">
-        <title lang="zh">新闻直播间</title>
+    <programme channel="CCTV13新闻" start="20260824091500 +0800" stop="20260824100000 +0800">
+        <title lang="zh">世界周刊</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260824100000 +0800" stop="20260824110000 +0800">
         <title lang="zh">新闻直播间</title>
