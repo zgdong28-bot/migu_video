@@ -531,11 +531,11 @@
     <programme channel="CCTV5体育" start="20260826213000 +0800" stop="20260826223500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260826223500 +0800" stop="20260826233500 +0800">
-        <title lang="zh">实况录像-2026年世界羽毛球锦标赛 3</title>
+    <programme channel="CCTV5体育" start="20260826223500 +0800" stop="20260826230000 +0800">
+        <title lang="zh">2026/2027法国足球甲级联赛-第1轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260826233500 +0800" stop="20260826235900 +0800">
-        <title lang="zh">实况录像-2026/2027赛季斯诺克中国公开赛 2</title>
+    <programme channel="CCTV5体育" start="20260826230000 +0800" stop="20260826235900 +0800">
+        <title lang="zh">2026年美国网球公开赛-资格赛第2轮（郑钦文-布雷尔）</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
