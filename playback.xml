@@ -1302,13 +1302,13 @@
     <programme channel="CCTV13新闻" start="20260906210000 +0800" stop="20260906213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260906213000 +0800" stop="20260906221500 +0800">
+    <programme channel="CCTV13新闻" start="20260906213000 +0800" stop="20260906220500 +0800">
         <title lang="zh">面对面</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260906221500 +0800" stop="20260906230000 +0800">
+    <programme channel="CCTV13新闻" start="20260906220500 +0800" stop="20260906225000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260906230000 +0800" stop="20260906235900 +0800">
+    <programme channel="CCTV13新闻" start="20260906225000 +0800" stop="20260906235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
