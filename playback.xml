@@ -561,11 +561,11 @@
     <programme channel="CCTV5+体育赛事" start="20260917101900 +0800" stop="20260917120000 +0800">
         <title lang="zh">国际足球赛场-26-27赛季英超联赛第4轮 桑德兰—阿森纳（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260917120000 +0800" stop="20260917133000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260917120000 +0800" stop="20260917140200 +0800">
         <title lang="zh">2026年亚运会-女排小组赛 哈萨克斯坦-菲律宾</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260917133000 +0800" stop="20260917150000 +0800">
-        <title lang="zh">实况录像-WTT澳门冠军赛2026 比赛 1</title>
+    <programme channel="CCTV5+体育赛事" start="20260917140200 +0800" stop="20260917150000 +0800">
+        <title lang="zh">实况录像-世界皮划艇静水锦标赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260917150000 +0800" stop="20260917170500 +0800">
         <title lang="zh">2026年全国举重冠军赛-男子110公斤级</title>
@@ -3321,20 +3321,20 @@
     <programme channel="江苏卫视" start="20260917183000 +0800" stop="20260917190000 +0800">
         <title lang="zh">江苏新时空</title>
     </programme>
-    <programme channel="江苏卫视" start="20260917190000 +0800" stop="20260917193200 +0800">
+    <programme channel="江苏卫视" start="20260917190000 +0800" stop="20260917193300 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="江苏卫视" start="20260917193200 +0800" stop="20260917202100 +0800">
+    <programme channel="江苏卫视" start="20260917193300 +0800" stop="20260917202200 +0800">
         <title lang="zh">醒来 第15集</title>
     </programme>
-    <programme channel="江苏卫视" start="20260917202100 +0800" stop="20260917210800 +0800">
+    <programme channel="江苏卫视" start="20260917202200 +0800" stop="20260917210900 +0800">
         <title lang="zh">醒来 第16集</title>
     </programme>
-    <programme channel="江苏卫视" start="20260917210800 +0800" stop="20260917215000 +0800">
-        <title lang="zh">荔枝追剧手册</title>
+    <programme channel="江苏卫视" start="20260917210900 +0800" stop="20260917213200 +0800">
+        <title lang="zh">锻造 第2集</title>
     </programme>
-    <programme channel="江苏卫视" start="20260917215000 +0800" stop="20260917230000 +0800">
-        <title lang="zh">最强大脑</title>
+    <programme channel="江苏卫视" start="20260917213200 +0800" stop="20260917230000 +0800">
+        <title lang="zh">音乐缘计划2</title>
     </programme>
     <programme channel="江苏卫视" start="20260917230000 +0800" stop="20260917231500 +0800">
         <title lang="zh">晚间新闻</title>
