@@ -216,13 +216,13 @@
     <programme channel="CCTV2财经" start="20260929213000 +0800" stop="20260929215600 +0800">
         <title lang="zh">央视财经评论-2026-09-29</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260929215600 +0800" stop="20260929224800 +0800">
-        <title lang="zh">大黄河5-46分版</title>
+    <programme channel="CCTV2财经" start="20260929215600 +0800" stop="20260929224900 +0800">
+        <title lang="zh">货币的故事1-47分版</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260929224800 +0800" stop="20260929231600 +0800">
+    <programme channel="CCTV2财经" start="20260929224900 +0800" stop="20260929231700 +0800">
         <title lang="zh">精品财经纪录-大唐盛世千年文物2</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260929231600 +0800" stop="20260929235900 +0800">
+    <programme channel="CCTV2财经" start="20260929231700 +0800" stop="20260929235900 +0800">
         <title lang="zh">中国经济大讲堂-2026-37</title>
     </programme>
     <channel id="CCTV3综艺">
@@ -291,16 +291,16 @@
     <programme channel="CCTV3综艺" start="20260929183715 +0800" stop="20260929200000 +0800">
         <title lang="zh">开门大吉-2026-37</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260929200000 +0800" stop="20260929212405 +0800">
+    <programme channel="CCTV3综艺" start="20260929200000 +0800" stop="20260929213000 +0800">
         <title lang="zh">全民畅舞-22</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260929212405 +0800" stop="20260929230310 +0800">
+    <programme channel="CCTV3综艺" start="20260929213000 +0800" stop="20260929230905 +0800">
         <title lang="zh">E起绽放吧-海峡歌会-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260929230310 +0800" stop="20260929234910 +0800">
+    <programme channel="CCTV3综艺" start="20260929230905 +0800" stop="20260929235505 +0800">
         <title lang="zh">综艺喜乐汇-2026-988 爱在平凡14/30</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260929234910 +0800" stop="20260929235900 +0800">
+    <programme channel="CCTV3综艺" start="20260929235505 +0800" stop="20260929235900 +0800">
         <title lang="zh">综艺喜乐汇-2026-989 爱在平凡15/30</title>
     </programme>
     <channel id="CCTV4中文国际">
@@ -2187,11 +2187,11 @@
     <programme channel="CGTN法语" start="20260929074500 +0800" stop="20260929080000 +0800">
         <title lang="zh">动画城(法)-棉花糖和妈妈-22/60</title>
     </programme>
-    <programme channel="CGTN法语" start="20260929080000 +0800" stop="20260929100000 +0800">
+    <programme channel="CGTN法语" start="20260929080000 +0800" stop="20260929094500 +0800">
         <title lang="zh">非洲面孔(法)-2026-39</title>
     </programme>
-    <programme channel="CGTN法语" start="20260929100000 +0800" stop="20260929103000 +0800">
-        <title lang="zh">光华世界观察-2026-9-24</title>
+    <programme channel="CGTN法语" start="20260929094500 +0800" stop="20260929103000 +0800">
+        <title lang="zh">2026年向人民英雄敬献花篮仪式</title>
     </programme>
     <programme channel="CGTN法语" start="20260929103000 +0800" stop="20260929111500 +0800">
         <title lang="zh">电视剧(法)-青春之城-16/33</title>
@@ -2883,10 +2883,10 @@
     <programme channel="CGTN" start="20260929070000 +0800" stop="20260929073000 +0800">
         <title lang="zh">热点</title>
     </programme>
-    <programme channel="CGTN" start="20260929073000 +0800" stop="20260929080000 +0800">
+    <programme channel="CGTN" start="20260929073000 +0800" stop="20260929082100 +0800">
         <title lang="zh">今日世界</title>
     </programme>
-    <programme channel="CGTN" start="20260929080000 +0800" stop="20260929090000 +0800">
+    <programme channel="CGTN" start="20260929082100 +0800" stop="20260929090000 +0800">
         <title lang="zh">全球财经</title>
     </programme>
     <programme channel="CGTN" start="20260929090000 +0800" stop="20260929093000 +0800">
@@ -2899,13 +2899,13 @@
         <title lang="zh">今日世界</title>
     </programme>
     <programme channel="CGTN" start="20260929103000 +0800" stop="20260929110000 +0800">
-        <title lang="zh">世界观察</title>
+        <title lang="zh">薇观世界</title>
     </programme>
     <programme channel="CGTN" start="20260929110000 +0800" stop="20260929111500 +0800">
         <title lang="zh">今日世界</title>
     </programme>
     <programme channel="CGTN" start="20260929111500 +0800" stop="20260929113000 +0800">
-        <title lang="zh">环球体育</title>
+        <title lang="zh">体育报道</title>
     </programme>
     <programme channel="CGTN" start="20260929113000 +0800" stop="20260929120000 +0800">
         <title lang="zh">舆论纵贯线</title>
@@ -2953,7 +2953,7 @@
         <title lang="zh">非洲直播室</title>
     </programme>
     <programme channel="CGTN" start="20260929190000 +0800" stop="20260929193000 +0800">
-        <title lang="zh">亚洲直播室</title>
+        <title lang="zh">正在播出亚洲直播室</title>
     </programme>
     <programme channel="CGTN" start="20260929193000 +0800" stop="20260929200000 +0800">
         <title lang="zh">对话</title>
