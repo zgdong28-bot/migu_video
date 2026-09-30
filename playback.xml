@@ -516,11 +516,11 @@
     <programme channel="CCTV5+体育赛事" start="20260930072500 +0800" stop="20260930075500 +0800">
         <title lang="zh">2026/2027英格兰足球超级联赛-第2轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260930075500 +0800" stop="20260930203500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260930075500 +0800" stop="20260930212500 +0800">
         <title lang="zh">2026年亚运会-赛事直播11</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260930203500 +0800" stop="20260930220500 +0800">
-        <title lang="zh">实况录像-2026中国之队国际足球邀请赛 中国队—新西兰队</title>
+    <programme channel="CCTV5+体育赛事" start="20260930212500 +0800" stop="20260930220500 +0800">
+        <title lang="zh">中超第25轮进球集锦</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260930220500 +0800" stop="20260930223500 +0800">
         <title lang="zh">实况录像-2026年国际篮联U23三人篮球世界杯（4K）</title>
@@ -3342,7 +3342,7 @@
     <programme channel="广东卫视" start="20260930232000 +0800" stop="20260930235800 +0800">
         <title lang="zh">许我耀眼(4)</title>
     </programme>
-    <programme channel="广东卫视" start="20260930235800 +0800" stop="20261001000000 +0800">
+    <programme channel="广东卫视" start="20260930235800 +0800" stop="20261001002800 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -3768,7 +3768,7 @@
     <programme channel="河北卫视" start="20260930233400 +0800" stop="20260930233700 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260930233700 +0800" stop="20261001000000 +0800">
+    <programme channel="河北卫视" start="20260930233700 +0800" stop="20261001000600 +0800">
         <title lang="zh">沃野之上</title>
     </programme>
     <channel id="江西卫视">
@@ -4818,7 +4818,7 @@
     <programme channel="海峡卫视" start="20260930230800 +0800" stop="20260930235100 +0800">
         <title lang="zh">海峡剧场:追风者 第21集</title>
     </programme>
-    <programme channel="海峡卫视" start="20260930235100 +0800" stop="20261001000000 +0800">
+    <programme channel="海峡卫视" start="20260930235100 +0800" stop="20261001003500 +0800">
         <title lang="zh">海峡剧场:追风者 第22集</title>
     </programme>
     <channel id="中国农林卫视">
